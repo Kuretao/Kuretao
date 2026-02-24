@@ -2,7 +2,7 @@
 
 ![Waving Hand](https://github.com/Kuretao/Kuretao/raw/main/assets/wave.gif)
 
-**Фронтенд-разработчик (React/Vue), UI-дизайнер, наставник**
+**Фронтенд-разработчик (React/Vue/Next), UI-дизайнер, наставник**
 
 - Санкт-Петербург, Россия  
 - Готов к переезду и командировкам  
