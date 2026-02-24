@@ -85,7 +85,7 @@ SPA на Vue.js, интеграция с API, адаптивная верстк�
 |------------------|---------------------------------|--------------------------|--------------------------------|
 | [Panteleev Group](https://github.com/Kuretao/PanteleevGroup) | CRM панель для завода Panteleev Group | React, Axios            | [GitHub](https://github.com/Kuretao/sportclick) |
 | [StealthXR Project](https://github.com/Kuretao/stealth) | SPA для нового проекта с множеством отраслей              | React           | [GitHub](https://github.com/Kuretao/feis-ai)     |
-| [Crypter v.2 (pet)](https://github.com/Kuretao/crypter-pet) | Пет проект крупной платформы            | React, JavaScript, Jotai, SCSS, Cookie.js            | [GitHub](https://github.com/Kuretao/easycode-courses) |
+| [Crypter v.2] |           | React, JavaScript, Jotai, SCSS, Cookie.js            |  |
 | [ToDo + cookie](https://github.com/Kuretao/todo-pet) | ToDo с регистрацией и созданием задач без бэкенда            | React, SCSS, Cookie.js             | [GitHub](https://github.com/Kuretao/easycode-courses) |
 
 ---
