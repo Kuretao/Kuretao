@@ -1,107 +1,65 @@
-# Привет, меня зовут Богдан Фролов 👋
+# Bogdan Frolov
 
-![Waving Hand](https://github.com/Kuretao/Kuretao/raw/main/assets/wave.gif)
+### Frontend Engineer · React · Next.js · Vue · TypeScript · Shopify
 
-**Фронтенд-разработчик (React/Vue/Next), UI-дизайнер, наставник**
+I build polished, responsive web products for e-commerce, education, media, and internal business tools. My focus is the part users actually experience: clear interfaces, reliable frontend architecture, smooth API integration, and maintainable implementation.
 
-- Санкт-Петербург, Россия  
-- Готов к переезду и командировкам  
-- Открыт для полной, частичной и проектной работы  
-- [📧 frolov.bogdann@yandex.com](mailto:frolov.bogdann@yandex.com) | 📞 +7 (993) 977-50-35
+I have 4+ years of commercial and freelance experience, including frontend development, team leadership, UI/UX collaboration, and mentoring junior developers.
 
----
+[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01279e1f8bec56a7d8)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-frolov-b33852434/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frolov.bogdann@yandex.com)
 
-## 🚀 О себе
+## What I can help with
 
-Я — фронтенд-разработчик с 4+ годами опыта, специализируюсь на создании современных, адаптивных и удобных интерфейсов на React.  
-Люблю чистый код, понятный UI и дружелюбную атмосферу в команде.  
-Обожаю делиться знаниями: преподаю подросткам верстку, JavaScript, React и основы UI/UX-дизайна.
+- Build responsive React, Next.js, or Vue interfaces from Figma and product requirements
+- Develop landing pages, dashboards, CRM tools, e-commerce storefronts, and content-driven websites
+- Create and customize native Shopify themes with Liquid
+- Integrate REST APIs, authentication, forms, analytics, and third-party services
+- Improve frontend architecture, reusable UI systems, accessibility, and performance
+- Debug and modernize existing JavaScript or TypeScript applications
 
----
+## Core stack
 
-## 💼 Опыт работы
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Shopify](https://img.shields.io/badge/Shopify_Liquid-7AB55C?logo=shopify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-**myplteam.com** — frontend-разработчик (Июль 2025 — по текущий момент)  
+Also working with REST APIs, Vite, Turborepo, Sanity, Storybook, Playwright, Vitest, GSAP, responsive design, and design-system documentation.
 
-**EasyCode** — преподаватель frontend (декабрь 2024 — Июль 2025)  
-Обучаю подростков созданию сайтов на HTML, CSS, JavaScript, React. Преподаю основы UI/UX и работу с Figma.
+## Selected work
 
-**SportClick** — frontend developer (июнь 2024 — сейчас)  
-Разработка адаптивного интерфейса на React, оптимизация производительности.
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [ORVAUXE](https://github.com/Kuretao/ORVAUXE) | Server-first premium commerce platform with a structured monorepo, CMS boundaries, typed analytics, testing, ADRs, and engineering documentation | Next.js, React, TypeScript, Sanity, Turborepo |
+| [OrtoLux](https://github.com/Kuretao/ortolux) | Responsive product website with modern motion and an automated browser-testing setup | Next.js, TypeScript, Tailwind CSS, GSAP, Playwright |
+| [NOVA Ledger](https://github.com/Kuretao/CRM-Myself) | Personal CRM and ledger interface designed across web and mobile targets with reusable component documentation | React, React Native, TypeScript, Vite, Storybook |
+| [ORVAUXE Nocturne](https://github.com/Kuretao/Nocturne) | Native Shopify storefront theme with a documented architecture and repeatable packaging workflow | Shopify Liquid, Shopify CLI |
 
-**Feis.ai** — frontend-разработчик (сентябрь 2024 — январь 2025)  
-SPA на Vue.js, интеграция с API, адаптивная верстка, участие в UI/UX.
+## How I work
 
-**Abrosko** — тимлид (май 2023 — июнь 2024)  
-Руководство командой, обучение, планирование работ.
+- Translate business goals and designs into clear technical scope
+- Keep components, state, and integrations explicit and maintainable
+- Communicate progress early and document decisions that affect delivery
+- Validate responsive behavior, accessibility, and critical user flows
+- Deliver code that another developer can confidently continue
 
-**Фриланс** — React developer (апрель 2021 — февраль 2025)  
-Разработка интерфейсов для e-commerce, медиа и образовательных платформ.
+## Current focus
 
----
+I am available for freelance projects and remote collaboration, especially frontend builds, redesign implementation, Shopify storefronts, dashboards, and long-term product development.
 
-## 🛠️ Технологии и инструменты
+## Contact
 
-![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white&style=flat)
-![Vue](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white&style=flat)
-![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white&style=flat)
-![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?logo=webpack&logoColor=black&style=flat)
-![GSAP](https://img.shields.io/badge/-GSAP-88ce02?logo=greensock&logoColor=white&style=flat)
+- [Upwork](https://www.upwork.com/freelancers/~01279e1f8bec56a7d8)
+- [LinkedIn](https://www.linkedin.com/in/bogdan-frolov-b33852434/)
+- [Email](mailto:frolov.bogdann@yandex.com)
+- [Telegram](https://t.me/staffuria)
 
-- Адаптивная и кроссбраузерная верстка (BEM, SCSS)  
-- Работа с API (Axios, Fetch)  
-- Опыт с LocalStorage, Cookie  
-- UI/UX-дизайн, прототипирование (Figma)  
-- Наставничество и обучение  
-
----
-
-## 📚 Образование и курсы
-
-- **ТПТ** — автомеханик (2025)  
-- **JavaScript + React/Redux** — Campire school, Frontend developer (2024)  
-- **UI/UX designer** — Yudaev.school (2023)  
-
----
-
-## 🌱 Чем могу быть полезен
-
-- Разработка и дизайн интерфейсов любой сложности  
-- Адаптивная верстка, оптимизация производительности  
-- Настройка взаимодействия фронта и бэка  
-- Наставничество, обучение, консультации  
-
----
-
-## 🏆 Закрепленные проекты
-
-| Проект           | Описание                         | Технологии               | Ссылка                          |
-|------------------|---------------------------------|--------------------------|--------------------------------|
-| [Panteleev Group](https://github.com/Kuretao/PanteleevGroup) | CRM панель для завода Panteleev Group | React, Axios            | [GitHub](https://github.com/Kuretao/sportclick) |
-| [StealthXR Project](https://github.com/Kuretao/stealth) | SPA для нового проекта с множеством отраслей              | React           | [GitHub](https://github.com/Kuretao/feis-ai)     |
-| [Crypter v.2] |           | React, JavaScript, Jotai, SCSS, Cookie.js            |  |
-| [ToDo + cookie](https://github.com/Kuretao/todo-pet) | ToDo с регистрацией и созданием задач без бэкенда            | React, SCSS, Cookie.js             | [GitHub](https://github.com/Kuretao/easycode-courses) |
-
----
-
-## 📈 Моя статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuretao&show_icons=true&theme=react&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuretao&layout=compact&theme=react)
-
----
-
-## 📫 Контакты и соцсети
-
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=flat)](https://t.me/staffuria)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:frolov.bogdann@yandex.com)
-
----
-
-<sub>Фронтенд-разработчик, который любит чистый код, понятный UI и дружеские команды 🚀</sub>
+<sub>Based in Chengdu, China · Available for remote work</sub>
